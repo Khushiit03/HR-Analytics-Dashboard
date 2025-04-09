@@ -41,5 +41,9 @@ Answer these 9 questions.
 9) Leave balance analysis
 
 
+Dashboard
+![hr dashboard](https://github.com/user-attachments/assets/b9ea96d8-33a3-4950-9739-b2148d94876f)
+
+
 
 
