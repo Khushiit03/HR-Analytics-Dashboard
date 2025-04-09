@@ -12,21 +12,21 @@ Insights into training and performance
 This project helped me enhance my Tableau skills and understand the value of storytelling with data in the HR domain.
 
 Dashboard Highlights
-✅ Interactive filters for department, gender, and timeframe
-✅ KPI cards for quick summary insights
-✅ Clean layout and consistent visual design
-✅ Detailed charts showing workforce trends
-✅ Dynamic analysis for HR decision-making
+✅ Interactive filters for department, gender, and timeframe/
+✅ KPI cards for quick summary insights/
+✅ Clean layout and consistent visual design/
+✅ Detailed charts showing workforce trends/
+✅ Dynamic analysis for HR decision-making/
 
 Use concepts like:
-Calculated measures & columns
-Customizing visuals
-Creating histograms & box plots
-Working with "Marks"
-Field formatting
-Filters, Actions and using "Context"
-Cumulative totals
-Setting up a dashboard
+Calculated measures & columns/
+Customizing visuals/
+Creating histograms & box plots/
+Working with "Marks"/
+Field formatting/
+Filters, Actions and using "Context"/
+Cumulative totals/
+Setting up a dashboard/
 
 Answer these 9 questions.
 
